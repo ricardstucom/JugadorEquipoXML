@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="jugadorequipoxml.listaEquipos" id="listaEquipos0">
+  <void property="lista_equipos">
+   <void method="add">
+    <object class="jugadorequipoxml.Equipo">
+     <void property="año">
+      <int>1996</int>
+     </void>
+     <void property="dia">
+      <int>13</int>
+     </void>
+     <void property="id">
+      <int>1</int>
+     </void>
+     <void property="jugadores">
+      <object class="jugadorequipoxml.listaJugadores" id="listaJugadores0">
+       <void property="lista_jugador">
+        <void method="add">
+         <object class="jugadorequipoxml.Jugador">
+          <void property="asisTotal">
+           <int>3</int>
+          </void>
+          <void property="año">
+           <int>1996</int>
+          </void>
+          <void property="canasTotal">
+           <int>2</int>
+          </void>
+          <void property="dia">
+           <int>1</int>
+          </void>
+          <void property="id">
+           <int>1</int>
+          </void>
+          <void property="mes">
+           <int>12</int>
+          </void>
+          <void property="nombre">
+           <string>jugador1</string>
+          </void>
+          <void property="posicion">
+           <string>alero</string>
+          </void>
+          <void property="reboTotal">
+           <int>24</int>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="jugadorequipoxml.Jugador">
+          <void property="asisTotal">
+           <int>43</int>
+          </void>
+          <void property="año">
+           <int>1995</int>
+          </void>
+          <void property="canasTotal">
+           <int>434</int>
+          </void>
+          <void property="dia">
+           <int>12</int>
+          </void>
+          <void property="id">
+           <int>1</int>
+          </void>
+          <void property="mes">
+           <int>12</int>
+          </void>
+          <void property="nombre">
+           <string>jugador2</string>
+          </void>
+          <void property="posicion">
+           <string>base</string>
+          </void>
+          <void property="reboTotal">
+           <int>23</int>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="jugadorequipoxml.Jugador">
+          <void property="asisTotal">
+           <int>23</int>
+          </void>
+          <void property="año">
+           <int>1996</int>
+          </void>
+          <void property="canasTotal">
+           <int>3</int>
+          </void>
+          <void property="dia">
+           <int>4</int>
+          </void>
+          <void property="id">
+           <int>1</int>
+          </void>
+          <void property="mes">
+           <int>4</int>
+          </void>
+          <void property="nombre">
+           <string>jugador3</string>
+          </void>
+          <void property="posicion">
+           <string>pivot</string>
+          </void>
+          <void property="reboTotal">
+           <int>32</int>
+          </void>
+         </object>
+        </void>
+       </void>
+      </object>
+     </void>
+     <void property="localidad">
+      <string>barcelona</string>
+     </void>
+     <void property="mes">
+      <int>5</int>
+     </void>
+     <void property="nombre">
+      <string>equipo1</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="jugadorequipoxml.Equipo">
+     <void property="año">
+      <int>1997</int>
+     </void>
+     <void property="dia">
+      <int>5</int>
+     </void>
+     <void property="id">
+      <int>1</int>
+     </void>
+     <void property="jugadores">
+      <object class="jugadorequipoxml.listaJugadores" id="listaJugadores1">
+       <void property="lista_jugador">
+        <void method="add">
+         <object class="jugadorequipoxml.Jugador">
+          <void property="asisTotal">
+           <int>4</int>
+          </void>
+          <void property="año">
+           <int>1994</int>
+          </void>
+          <void property="canasTotal">
+           <int>4</int>
+          </void>
+          <void property="dia">
+           <int>3</int>
+          </void>
+          <void property="id">
+           <int>1</int>
+          </void>
+          <void property="mes">
+           <int>3</int>
+          </void>
+          <void property="nombre">
+           <string>jugador4</string>
+          </void>
+          <void property="posicion">
+           <string>alero</string>
+          </void>
+          <void property="reboTotal">
+           <int>34</int>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="jugadorequipoxml.Jugador">
+          <void property="asisTotal">
+           <int>423</int>
+          </void>
+          <void property="año">
+           <int>12</int>
+          </void>
+          <void property="canasTotal">
+           <int>32</int>
+          </void>
+          <void property="dia">
+           <int>123</int>
+          </void>
+          <void property="id">
+           <int>1</int>
+          </void>
+          <void property="mes">
+           <int>12</int>
+          </void>
+          <void property="nombre">
+           <string>jugador5</string>
+          </void>
+          <void property="posicion">
+           <string>alero</string>
+          </void>
+          <void property="reboTotal">
+           <int>32</int>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="jugadorequipoxml.Jugador">
+          <void property="asisTotal">
+           <int>32</int>
+          </void>
+          <void property="año">
+           <int>1995</int>
+          </void>
+          <void property="canasTotal">
+           <int>32</int>
+          </void>
+          <void property="dia">
+           <int>5</int>
+          </void>
+          <void property="id">
+           <int>1</int>
+          </void>
+          <void property="mes">
+           <int>4</int>
+          </void>
+          <void property="nombre">
+           <string>jugador6</string>
+          </void>
+          <void property="posicion">
+           <string>pivot</string>
+          </void>
+          <void property="reboTotal">
+           <int>32</int>
+          </void>
+         </object>
+        </void>
+       </void>
+      </object>
+     </void>
+     <void property="localidad">
+      <string>madrid</string>
+     </void>
+     <void property="mes">
+      <int>12</int>
+     </void>
+     <void property="nombre">
+      <string>equipo2</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="jugadorequipoxml.Equipo">
+     <void property="año">
+      <int>1998</int>
+     </void>
+     <void property="dia">
+      <int>12</int>
+     </void>
+     <void property="id">
+      <int>1</int>
+     </void>
+     <void property="jugadores">
+      <object class="jugadorequipoxml.listaJugadores" id="listaJugadores2">
+       <void property="lista_jugador">
+        <void method="add">
+         <object class="jugadorequipoxml.Jugador">
+          <void property="asisTotal">
+           <int>43</int>
+          </void>
+          <void property="año">
+           <int>1995</int>
+          </void>
+          <void property="canasTotal">
+           <int>12</int>
+          </void>
+          <void property="dia">
+           <int>12</int>
+          </void>
+          <void property="id">
+           <int>1</int>
+          </void>
+          <void property="mes">
+           <int>12</int>
+          </void>
+          <void property="nombre">
+           <string>jugador7</string>
+          </void>
+          <void property="posicion">
+           <string>alero</string>
+          </void>
+          <void property="reboTotal">
+           <int>32</int>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="jugadorequipoxml.Jugador">
+          <void property="asisTotal">
+           <int>21</int>
+          </void>
+          <void property="año">
+           <int>1995</int>
+          </void>
+          <void property="canasTotal">
+           <int>21</int>
+          </void>
+          <void property="dia">
+           <int>12</int>
+          </void>
+          <void property="id">
+           <int>1</int>
+          </void>
+          <void property="mes">
+           <int>12</int>
+          </void>
+          <void property="nombre">
+           <string>jugador8</string>
+          </void>
+          <void property="posicion">
+           <string>base</string>
+          </void>
+          <void property="reboTotal">
+           <int>423</int>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="jugadorequipoxml.Jugador">
+          <void property="asisTotal">
+           <int>32</int>
+          </void>
+          <void property="año">
+           <int>1993</int>
+          </void>
+          <void property="canasTotal">
+           <int>32</int>
+          </void>
+          <void property="dia">
+           <int>12</int>
+          </void>
+          <void property="id">
+           <int>1</int>
+          </void>
+          <void property="mes">
+           <int>12</int>
+          </void>
+          <void property="nombre">
+           <string>jugador9</string>
+          </void>
+          <void property="posicion">
+           <string>pivot</string>
+          </void>
+          <void property="reboTotal">
+           <int>32</int>
+          </void>
+         </object>
+        </void>
+       </void>
+      </object>
+     </void>
+     <void property="localidad">
+      <string>gal�cia</string>
+     </void>
+     <void property="mes">
+      <int>6</int>
+     </void>
+     <void property="nombre">
+      <string>equipo3</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
